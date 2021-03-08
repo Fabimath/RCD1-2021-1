@@ -5,11 +5,11 @@ Mi nombre es Fabián Ramírez y seré el profesor encargado de la ayudantía. Cu
 
 ## Grupo de Telegram
 En caso que quieran una respuesta rapida a un problema pueden unirse al grupo de telegram de mis ayudantías de RCD1
-* <img src="telegram_logo.svg" alt="drawing" width="12"/> [aquí](https://t.me/joinchat/Vq98bqmlmgpjZjJh)
+* <img src="telegram_logo.svg" alt="drawing" width="12"/> [Grupo Telegram](https://t.me/joinchat/Vq98bqmlmgpjZjJh)
  
 Recuerden `colocar su telefono privado` para evitar problemas. 
 
-[Aquí](https://desktop.telegram.org/) puedes encontrar la página oficial de Telegram para descargarlo.
+[Telegram](https://desktop.telegram.org/) aquí encontrar la página oficial de Telegram para descargarlo.
 
 **Horario de consultas**: `Agendar por correo o telegram`
 
