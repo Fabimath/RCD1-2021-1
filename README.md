@@ -1,3 +1,4 @@
+[//]: <> (RCD1-2021-1)
 # Bienvenido a la ayudantía de RCD1 2021-1
 Tengo el agrado de saludarlos y darles la bienvenida a la ayudantía de Razonamiento Cuantitativo con Datos, en este primer semestre del 2021. 
 
@@ -16,7 +17,7 @@ Recuerden `colocar su telefono privado` para evitar problemas.
 # Ayudantías vía zoom
 
 El link de zoom para las ayudantías siempre será el siguiente:
-* <img src="zoom_logo.svg" alt="drawing" width="12"/> [Enlace reunión por zoom](https://zoom.us/j/5037743902)
+* <img src="zoom_logo.svg" alt="drawing" width="12"/> [https://zoom.us/j/5037743902](https://zoom.us/j/5037743902) - Clave: DTF9zd
 
 ## Ayudantías 
 
