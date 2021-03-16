@@ -28,6 +28,6 @@ El link de zoom para las ayudantías siempre será el siguiente:
 
 ## Ayudantías 
 
-* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ayudantía 1]() - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Pauta Ayudantía 1]() - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 1]() 
+* <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 1](https://youtu.be/lb69f8Mq3to) 
 
 [Volver al inicio](https://fabimath.github.io/Fabimath/)
