@@ -29,6 +29,6 @@ El link de zoom para las ayudantías siempre será el siguiente:
 ## Ayudantías 
 
 * <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 1](https://youtu.be/lb69f8Mq3to) 
-* **Preparación control** - <img src="pdf_logo.svg" alt="drawing" width="12"/>[Enunciado](https://docs.google.com/document/d/1UnmikzCpzGBNfLw8KyU36QKvTHhSDUgI?rtpof=true&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) - [Base de datos PlayStore](https://drive.google.com/open?id=1UnlD7CkCPUJWdpvG1UElHnhs1k_kj6Kv&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs), para descargar en mac colocar guardar enlace como.
+* **Preparación control** - <img src="pdf_logo.svg" alt="drawing" width="12"/>[Enunciado](https://docs.google.com/document/d/1UnmikzCpzGBNfLw8KyU36QKvTHhSDUgI?rtpof=true&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) - <img src="excel_logo.svg" alt="drawing" width="16"/>[Base de datos PlayStore](https://drive.google.com/open?id=1UnlD7CkCPUJWdpvG1UElHnhs1k_kj6Kv&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs), para descargar en mac colocar guardar enlace como.
 
 [Volver al inicio](https://fabimath.github.io/Fabimath/)
